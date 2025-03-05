@@ -12,6 +12,7 @@ I am a passionate **Web Developer** with experience in building entry-level to i
 - **JavaScript**: Writing dynamic and interactive features for web applications.
   - **ES5 Syntax**: Using traditional JavaScript features like `var`, `function`, and more.
   - **ES6 Syntax**: Using modern JavaScript features like `let`, `const`, arrow functions, template literals, and more.
+  - **OOP in JavaScript**: Utilizing Object-Oriented Programming concepts like classes, objects, inheritance, and encapsulation to build scalable and maintainable code.
   - **Fetch API**: Handling network requests asynchronously.
   - **jQuery & AJAX**: Making asynchronous requests and manipulating the DOM easily.
 
