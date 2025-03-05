@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there.  I'm Juan! 👋
 
+## About Me
+I'm a passionate developer interested in web development and machine learning.
+
+## Skills & Technologies
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- 
 <!--
 **devyafer/devyafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
