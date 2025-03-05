@@ -10,12 +10,14 @@ I am a passionate **Web Developer** with experience in building entry-level to i
 - **Bootstrap**: Building responsive websites quickly with this popular CSS framework.
 - **TailwindCSS**: A utility-first CSS framework for creating custom designs.
 - **JavaScript**: Writing dynamic and interactive features for web applications.
+  - **ES5 Syntax**: Using traditional JavaScript features like `var`, `function`, and more.
   - **ES6 Syntax**: Using modern JavaScript features like `let`, `const`, arrow functions, template literals, and more.
   - **Fetch API**: Handling network requests asynchronously.
   - **jQuery & AJAX**: Making asynchronous requests and manipulating the DOM easily.
 
 ### Back-End:
 - **PHP**: Building server-side applications and dynamic websites.
+  - **Laravel**: A powerful PHP framework for building modern web applications with elegant syntax and built-in features like routing, ORM, and authentication.
 - **MySQL**: Using MySQL databases to manage and store data.
   
 ### I'm learning and excited to explore:
@@ -31,8 +33,8 @@ I am a passionate **Web Developer** with experience in building entry-level to i
    - Features: Dynamic content display, user authentication, etc.
 
 2. **Project 2**: Description of your project.
-   - Tech stack: TailwindCSS, PHP, MySQL.
-   - Features: CRUD operations, form validation, etc.
+   - Tech stack: TailwindCSS, PHP (Laravel), MySQL.
+   - Features: CRUD operations, form validation, user roles, etc.
 
 3. **Project 3**: Description of your project.
    - Tech stack: HTML, CSS, jQuery, Fetch API.
@@ -45,6 +47,7 @@ Check out more of my projects in the **[Projects Section](#)** of my GitHub prof
 - Master **React** for building complex web applications.
 - Learn **Node.js** and **Express.js** to build full-stack applications.
 - Explore other JavaScript frameworks like **Vue.js** and **Angular**.
+- Dive deeper into **Laravel** for PHP to build robust back-end applications.
 
 ## 📫 How to Reach Me:
 - **Email**: [your-email@example.com]
