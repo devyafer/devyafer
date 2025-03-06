@@ -1,4 +1,4 @@
-# Hi, I'm [Yafer] 👋
+# Hi, I'm Yafer! 👋
 
 I'm a **Web Developer** with experience in building entry-level to intermediate projects. I specialize in front-end technologies and have worked with various tools and frameworks to create responsive websites and web applications. I'm also eager to expand my skills with new technologies.
 
