@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Yafer] 👋
 
 I'm a **Web Developer** with experience in building entry-level to intermediate projects. I specialize in front-end technologies and have worked with various tools and frameworks to create responsive websites and web applications. I'm also eager to expand my skills with new technologies.
 
@@ -6,17 +6,15 @@ I'm a **Web Developer** with experience in building entry-level to intermediate 
 
 - **Front-End**: HTML5, CSS3, Bootstrap, TailwindCSS, JavaScript (ES5, ES6, OOP), jQuery, AJAX
 - **Back-End**: PHP, **Laravel**, MySQL
-- **Learning**: React, Node.js, Express.js, Vue.js, Angular
+- **Learning**: React, Node.js, Express.js
 
 ## 💼 Projects
-- **Project 1**: HTML, CSS, Bootstrap, JavaScript, MySQL – Features: dynamic content, user authentication.
-- **Project 2**: PHP (Laravel), MySQL – Features: CRUD operations, form validation.
-- **Project 3**: HTML, CSS, jQuery, Fetch API – Features: API integration, responsive design.
+
 
 ## 🌱 Learning Goals
 - Master **React**, **Node.js**, **Express.js**, and explore more frameworks.
 
 ## 📫 Reach Me
-- **Email**: [your-email@example.com]
+- **Email**: [devyafer@gmail.com]
 - **LinkedIn**: [Your LinkedIn Profile Link]
-- **GitHub**: [Your GitHub Profile Link]
+- **GitHub**: [https://github.com/devyafer/devyafer-portfolio]
